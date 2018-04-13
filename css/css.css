@@ -1,0 +1,15 @@
+body{
+    margin: 0 0 0 0;
+}
+.pole{
+    border:1px solid;
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    background-color:#ffcf48;
+}
+.pustPole{
+    position:absolute;
+    border:0.5px solid;
+    font-size: 10px;
+}
